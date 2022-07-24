@@ -1,7 +1,7 @@
 # Codility
 Exercises from Codility (https://codility.com/programmers/lessons/1-iterations/)
 
-- [OddOccurrencesInArray] - This exercise I used a 66% solution (mine) and a 100% solution based on a solution found online
+- [OddOccurrencesInArray] - For this exercise I used a 66% solution (mine) and a 100% solution based on a solution found online
 
 A non-empty array A consisting of N integers is given. The array contains an odd number of elements, and each element of the array can be paired with another element that has the same value, except for one element that is left unpaired.
 
