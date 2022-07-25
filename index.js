@@ -1,5 +1,5 @@
 //ideia is to use reduce to return odd number in array
-const b = [1,1,1,1,1,2,2,2,2,4,4,5,3]
+const b = [1,1,1,1,1,2,2,2,2,4,4,3]
 function oddNumberObject(map, currentInteger) {
   function isMissing(int) { return map[int] === undefined}
 
